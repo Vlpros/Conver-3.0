@@ -60,7 +60,7 @@ const Converter = () => {
     }
     let count = () => {
          let numberConNumber = numberCon.current.value;
-       alert(proizvedenie)
+       
         itogo.current.value=proizvedenie*numberConNumber/delenie;
         
     }
