@@ -1,4 +1,4 @@
-﻿# EasyDatab
+﻿# EasyConver
  
 1) instal zip
 2) npm i
